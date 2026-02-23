@@ -75,7 +75,7 @@
     { "name": "Jetpack Joyride", "image": "https://cdn.jsdelivr.net/gh/daredjumper/nicosuxDependencies@main/images/jetpack.png", "url": "https://cdn.jsdelivr.net/gh/daredjumper/nicosuxDependencies@main/jetpack.html" },
     { "name": "Baldi's Fun New School Ultimate", "image": "https://cdn.jsdelivr.net/gh/daredjumper/nicosuxDependencies@main/images/bfnsu.webp", "url": "https://cdn.jsdelivr.net/gh/daredjumper/nicosuxDependencies@main/baldifun.html" },
     { "name": "Plants vs. Zombies", "image": "https://cdn.jsdelivr.net/gh/daredjumper/nicosuxDependencies@main/images/pvz.png", "url": "https://cdn.jsdelivr.net/gh/daredjumper/nicosuxDependencies@main/pvz.html" },
-    { "name": "Baldi's Basics Plus", "image": "https://cdn.jsdelivr.net/gh/daredjumper/nicosuxDependencies@main/images/bbp.webp", "url": "https://cdn.jsdelivr.net/gh/daredjumper/nicosuxDependencies@main/bbplus.html" },
+    { "name": "Baldi's Basics Plus Old", "image": "https://cdn.jsdelivr.net/gh/daredjumper/nicosuxDependencies@main/images/bbp.webp", "url": "https://cdn.jsdelivr.net/gh/daredjumper/nicosuxDependencies@main/bbplus.html" },
     { "name": "Omori", "image": "https://cdn.jsdelivr.net/gh/daredjumper/nicosuxDependencies@main/images/omori.jpg", "url": "https://cdn.jsdelivr.net/gh/daredjumper/nicosuxDependencies@main/omori.html" },
     { "name": "MotoX3M 1", "image": "https://cdn.jsdelivr.net/gh/daredjumper/nicosuxDependencies@main/images/motox3m1.png", "url": "https://cdn.jsdelivr.net/gh/daredjumper/nicosuxDependencies@main/moto1.html" },
     { "name": "MotoX3M 2", "image": "https://cdn.jsdelivr.net/gh/daredjumper/nicosuxDependencies@main/images/motox3m2.png", "url": "https://cdn.jsdelivr.net/gh/daredjumper/nicosuxDependencies@main/moto2.html" },
@@ -88,5 +88,8 @@
     { "name": "Iron Lung", "image": "https://cdn.jsdelivr.net/gh/daredjumper/nicosuxDependencies@main/images/ironlung.jpg", "url": "https://cdn.jsdelivr.net/gh/daredjumper/nicosuxDependencies@main/ironlung.html" },
     { "name": "Celeste", "image": "https://cdn.jsdelivr.net/gh/daredjumper/nicosuxDependencies@main/images/celeste.webp", "url": "https://cdn.jsdelivr.net/gh/daredjumper/nicosuxDependencies@main/celes.html" },
     { "name": "Clover Pit", "image": "https://cdn.jsdelivr.net/gh/daredjumper/nicosuxDependencies@main/images/clovers.png", "url": "https://cdn.jsdelivr.net/gh/daredjumper/nicosuxDependencies@main/clovers.html" },
-    { "name": "Five Nights at Epstein's", "image": "https://cdn.jsdelivr.net/gh/daredjumper/nicosuxDependencies@main/images/fnae.png", "url": "https://cdn.jsdelivr.net/gh/daredjumper/nicosuxDependencies@main/fnae.html" }
+    { "name": "Five Nights at Epstein's", "image": "https://cdn.jsdelivr.net/gh/daredjumper/nicosuxDependencies@main/images/fnae.png", "url": "https://cdn.jsdelivr.net/gh/daredjumper/nicosuxDependencies@main/fnae.html" },
+    { "name": "Minecraft 1.12.2", "image": "https://cdn.jsdelivr.net/gh/daredjumper/nicosuxDependencies@main/images/mc1.12.2.png", "url": "https://cdn.jsdelivr.net/gh/daredjumper/nicosuxDependencies@main/mc1.12.22.html" },
+    { "name": "ULTRAKILL", "image": "https://cdn.jsdelivr.net/gh/daredjumper/nicosuxDependencies@main/images/ultrakill.png", "url": "https://cdn.jsdelivr.net/gh/daredjumper/nicosuxDependencies@main/ultra.html" },
+    { "name": "Baldi's Basics Plus New", "image": "https://cdn.jsdelivr.net/gh/daredjumper/nicosuxDependencies@main/images/bbplusnew.png", "url": "https://cdn.jsdelivr.net/gh/daredjumper/nicosuxDependencies@main/bbplusnew.html" }
 ]
