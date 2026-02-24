@@ -91,5 +91,8 @@
     { "name": "Five Nights at Epstein's", "image": "https://cdn.jsdelivr.net/gh/daredjumper/nicosuxDependencies@main/images/fnae.png", "url": "https://cdn.jsdelivr.net/gh/daredjumper/nicosuxDependencies@main/fnae.html" },
     { "name": "Minecraft 1.12.2", "image": "https://cdn.jsdelivr.net/gh/daredjumper/nicosuxDependencies@main/images/mc1.12.2.png", "url": "https://cdn.jsdelivr.net/gh/daredjumper/nicosuxDependencies@main/mc1.12.22.html" },
     { "name": "ULTRAKILL", "image": "https://cdn.jsdelivr.net/gh/daredjumper/nicosuxDependencies@main/images/ultrakill.png", "url": "https://cdn.jsdelivr.net/gh/daredjumper/nicosuxDependencies@main/ultra.html" },
-    { "name": "Baldi's Basics Plus New", "image": "https://cdn.jsdelivr.net/gh/daredjumper/nicosuxDependencies@main/images/bbplusnew.png", "url": "https://cdn.jsdelivr.net/gh/daredjumper/nicosuxDependencies@main/bbplusnew.html" }
+    { "name": "Baldi's Basics Plus New", "image": "https://cdn.jsdelivr.net/gh/daredjumper/nicosuxDependencies@main/images/bbplusnew.png", "url": "https://cdn.jsdelivr.net/gh/daredjumper/nicosuxDependencies@main/bbplusnew.html" },
+    { "name": "Oneshot Legacy", "image": "https://cdn.jsdelivr.net/gh/daredjumper/nicosuxDependencies@main/images/oneshot.png", "url": "https://cdn.jsdelivr.net/gh/daredjumper/nicosuxDependencies@main/oneshot.html" },
+    { "name": "Escape Road", "image": "https://cdn.jsdelivr.net/gh/daredjumper/nicosuxDependencies@main/images/escaperoad.png", "url": "https://cdn.jsdelivr.net/gh/daredjumper/nicosuxDependencies@main/escaperoad.html" },
+    { "name": "Escape Road 2", "image": "https://cdn.jsdelivr.net/gh/daredjumper/nicosuxDependencies@main/images/escaperoad2.png", "url": "https://cdn.jsdelivr.net/gh/daredjumper/nicosuxDependencies@main/escaperoad2.html" }
 ]
